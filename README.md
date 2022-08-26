@@ -34,13 +34,13 @@ The maximum temperatures for the months of June and December were 85°F and 83°
 
 The results shows that the maximum precipitation for the month of June is 4.43 inches and for the month of December is 6.42 inches.
 
-2. Scatter plots were created for the months of June and December for temperatures by precipitations to analyse the weather conditions for opening a surf shop.
+2. Linear regression plots were created for the months of June and December for temperatures by precipitations to analyse the weather conditions for opening a surf shop. The slopes of the linear regression equations, for the month of June is -0.04 and for December the slope is -0.02. The June month's slope is slightly steeper than December month's slope, which means as the temperature increases, the precipitation decreases in June than in December.
 
-![image](https://user-images.githubusercontent.com/108298416/186773662-2a77687a-2e25-4304-8681-5f0755bde009.png)
+![image](https://user-images.githubusercontent.com/108298416/186808760-5e2231ff-ba24-4577-9a6d-546b9e068a22.png)
 
-![image](https://user-images.githubusercontent.com/108298416/186773712-c6895342-939b-4e17-9332-3eaffeb97b67.png)
+![image](https://user-images.githubusercontent.com/108298416/186808887-3c50caca-944a-4932-a41a-e2c0e755b83d.png)
 
-The results of these analyses show that the weather patterns for the months of June and December were mostly similar. The temperatures and precipitation values for both the months were mostly similar with the differnce of few degrres farenheit. The average temperature for June is  75°F, a little higher than the mean temperature of 71°F for December. However, the average precipitation in December was 0.22 inches whereas June had 0.14 inches. The analysis with the provided data tells that opening a Surf and Ice Cream shop year-round could be a possibility. But there are other variables which needs to be considered, like wind condition and humidity also plays an important role in finding an optimal location for surf shop.
+The results of these analyses show that the weather patterns for the months of June and December were mostly similar. The temperatures and precipitation values for both the months were mostly similar with the differnce of few degrres farenheit. The average temperature for June is  75°F, a little higher than the mean temperature of 71°F for December. However, the average precipitation in December was 0.22 inches whereas June had 0.14 inches. The analysis with the provided data tells that opening a Surf and Ice Cream shop year-round could be a possibility. But there are other variables which needs to be considered, like wind condition and humidity also plays an important role in finding an optimal location for surf shop. 
 
 
 
